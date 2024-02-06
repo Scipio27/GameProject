@@ -1,0 +1,48 @@
+﻿  Boss.cpp
+D:\GameProject\Aria\Aria\Boss.cpp(110,20): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+D:\GameProject\Aria\Aria\Boss.cpp(179,27): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+D:\GameProject\Aria\Aria\Boss.cpp(180,27): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  Guerrier.cpp
+  Enemy.cpp
+  Magicien.cpp
+D:\GameProject\Aria\Aria\Magicien.cpp(249,35): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\GameProject\Aria\Aria\Magicien.cpp(257,35): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\GameProject\Aria\Aria\Magicien.cpp(273,34): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\GameProject\Aria\Aria\Magicien.cpp(281,34): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\GameProject\Aria\Aria\Magicien.cpp(383,34): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  CItem.cpp
+  Perso.cpp
+D:\GameProject\Aria\Aria\Perso.cpp(180,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Perso.cpp(182,21): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Perso.cpp(189,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Perso.cpp(191,21): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Perso.cpp(198,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Perso.cpp(200,21): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Perso.cpp(207,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Perso.cpp(209,21): warning C4018: '<' : incompatibilité signed/unsigned
+  Player.cpp
+D:\GameProject\Aria\Aria\Player.cpp(126,8): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Player.cpp(155,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Player.cpp(158,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Player.cpp(168,24): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Player.cpp(180,24): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Player.cpp(210,8): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Player.cpp(223,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Player.cpp(247,8): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Player.cpp(284,8): warning C4018: '<=' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Player.cpp(305,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Player.cpp(310,9): warning C4018: '<' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Player.cpp(366,14): warning C4018: '>' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Player.cpp(432,20): warning C4018: '<' : incompatibilité signed/unsigned
+  Resource.cpp
+  Room.cpp
+  Source.cpp
+D:\GameProject\Aria\Aria\Source.cpp(183,27): warning C4018: '>=' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Source.cpp(220,28): warning C4018: '>=' : incompatibilité signed/unsigned
+D:\GameProject\Aria\Aria\Source.cpp(541,14): warning C4018: '>' : incompatibilité signed/unsigned
+  Voleur.cpp
+  Equipment.cpp
+D:\GameProject\Aria\Aria\Equipment.cpp(47,20): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+D:\GameProject\Aria\Aria\Magicien.cpp(149): warning C4715: 'Magicien::cardToInt' : les chemins de contrôle ne retournent pas tous une valeur
+  Aria.vcxproj -> D:\GameProject\Aria\Debug\Aria.exe
