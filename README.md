@@ -1,8 +1,9 @@
 # GameProject
 
-CimeJam_UE5 est un jeu de jam réalisé en 32h que nous avons remporter dans lequel j'étais le seul développeur, il vaut mieux joué sans son car le son des ascenseurs est bugué, ce projet utilise Unreal 5.1.
+CimeJam_UE5 est un jeu de jam réalisé en 32h que nous avons remporter dans lequel j'étais le seul développeur, il vaut mieux joué sans son car le son des ascenseurs est bugué, ce projet utilise Unreal 5.1 Toute les commandes sont affiché dans le jeu. But du jeu atteindre la prise en résolvant les énigmes sur le trajet.
 
-Le projet Aria est une aventure textuel réalisé au début de notre apprentissage du C++, il s'ouvre avec visual studio 2019. J'ai réalisé le système d'inventaire, un des ennemies, le boss et le lore avec sa gestion et son apparition.
+Le projet Aria est une aventure textuel réalisé au début de notre apprentissage du C++, il s'ouvre avec visual studio 2019. J'ai réalisé le système d'inventaire, un des ennemies, le boss et le lore avec sa gestion et son apparition. Flèches directionnelles pour ce déplacer, Enter pour entrer dans une pièce ou valider une option, Spacebar pour passer à l'étage suivant après avoir battu le boss. But du jeu arriver à bout du donjon contenant 3 étages.
 
-Moonlighter est un projet de cours réalisé en un week end avec comme but de réaliser la mécanique de craft en fonction d'éléments récoltés ce qui m'a appris à utiliser les widgets.
+Moonlighter est un projet de cours réalisé en un week end avec comme but de réaliser la mécanique de craft en fonction d'éléments récoltés ce qui m'a appris à utiliser les widgets, ce projet utilise Unreal 5.0. ZQSD déplacement, F interact, clic gauche shoot, I open inventory. But méca tirer sur un ennemie fait apparaitre des composants que l'ont peut utiliser pour crafter un équipement ou une potion.
 
+JuicyKnight est un projet réalisé en une journée pour apprendre à faire une ia de base et faire un peu de gamefeel avec des effets visuel avec niagara (les chauves souris sont aussi un effet visuel fais avec niagara, j'ai repris le système présenté dans le content example d'unreal et l'ai modifié pour l'adapter à ce que je voulais), ce projet utilise Unreal 5.0. ZQSD déplacement, F interact, LeftShift sprint, LeftClic attaque, RightClic Parade. But du projet s'échapper du donjon. Attention Screamer audio à la fin.
